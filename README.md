@@ -1,7 +1,5 @@
 # 👋 Rafael Mendes | Senior Full Stack Engineer
 
-![Header Image](https://github.com/designedhead/designedhead/raw/main/header.png)
-
 ## About Me
 
 I'm a Senior Full Stack Engineer who excels at building high-performance applications that handle 300+ requests per second. With my background as a Product Manager and UI/UX Designer, I bring a unique perspective to engineering problems - focusing not just on code quality, but on creating exceptional user experiences.
